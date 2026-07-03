@@ -14,6 +14,14 @@ config/name="BHBE"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[autoload]
+
+AudioManager="*uid://bhqg8vin84clh"
+GameEvents="*uid://c33yx4kd2p0f"
+RunManager="*uid://ly8ia8r7r0ee"
+SaveManager="*uid://cc2wgomdxoc2"
+SceneManager="*uid://sc1tx170wqf1"
+
 [display]
 
 window/stretch/mode="canvas_items"
