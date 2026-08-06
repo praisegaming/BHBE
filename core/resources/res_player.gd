@@ -10,5 +10,3 @@ class_name ResPlayer
 @export var max_speed: float = 100.0
 @export var armor: float
 @export var pickup_area: float
-@export var res_weapon: ResWeapon
-@export var res_object: ResObject

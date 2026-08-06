@@ -9,9 +9,9 @@ class_name ResWeapon
 
 @export_group("BaseStats")
 @export var damage: float
-@export var atk_speed: float
+@export var attack_speed: float
 @export var crit: float
-@export var crit_rate: float
+@export var crit_chance: float
 @export var residual_damage: float
 @export var residual_duration: float
 @export var lifesteal: float
